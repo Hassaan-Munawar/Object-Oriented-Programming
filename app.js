@@ -113,6 +113,8 @@
 
 // const p = new Person("Ali", 25)
 // console.log(p.age);
+// p.age = 20
+// console.log(p.age)
 
 
 
